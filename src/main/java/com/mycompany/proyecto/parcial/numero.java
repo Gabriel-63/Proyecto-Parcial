@@ -2,7 +2,7 @@ package com.mycompany.proyecto.parcial;
 import java.util.Scanner;
 /**
  *
- * @author Gariel
+ * @author Gabriel
  */
 public class numero {
     public static void main(String[] args) {
